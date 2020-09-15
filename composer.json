@@ -1,0 +1,23 @@
+{
+    "name": "vitaliyviznyuk/php-net-examples",
+    "description": "Examples from the official PHP site https://www.php.net/.",
+    "keywords": [
+        "php",
+        "examples"
+    ],
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vitaliy Viznyuk",
+            "email": "vitaliyviznyuk@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.4"
+    },
+    "autoload": {
+        "psr-4": { "vitaliyviznyuk\\phpnetexamples\\": "src/" }
+    }
+}
