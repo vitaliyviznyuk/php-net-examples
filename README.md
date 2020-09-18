@@ -1,4 +1,4 @@
-<p align="center"><img src="icon.png" width="400"></p>
+<p align="center"><img src="icon.png" width="200"></p>
 
 ## About repository
 

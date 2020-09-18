@@ -1,4 +1,7 @@
 <?php
+/**
+ * https://www.php.net/manual/en/function.define
+ */
 
 namespace vitaliyviznyuk\phpnetexamples\manual\function_define\example1;
 
@@ -24,5 +27,7 @@ class Runner
             'bird'
         ));
         echo ANIMALS[1]; // outputs "cat"
+
+        echo PHP_EOL;
     }
 }
